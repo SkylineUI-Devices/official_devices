@@ -1,0 +1,27 @@
+{
+	"response": [
+		{
+			"maintainer": "DqrKnz & Yohan_Black",
+			"oem": "Poco",
+			"device": "Redmi K40/ POCO F3/ Mi 11x",
+			"filename": "",
+			"download": "",
+			"timestamp": ,
+			"md5": "",
+			"sha256": "",
+			"size": ,
+			"version": ,
+			"buildtype": "",
+			"forum": "",
+			"firmware": "https://xiaomifirmwareupdater.com/firmware/alioth/",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "https://orangefox.download/device/alioth",
+			"paypal": "https://www.paypal.com/paypalme/ubanuelaa",
+			"telegram": "https://t.me/SkylineUI_ROM",
+			"dt": "https://github.com/SkylineUI/device_xiaomi_alioth",
+			"common-dt": "https://github.com/SkylineUI/device_xiaomi_sm8250-common",
+			"kernel": "https://github.com/VoidUI-Devices/kernel_xiaomi_sm8250"
+		}
+	]
+}

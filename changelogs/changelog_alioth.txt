@@ -1,0 +1,42 @@
+========================
+SkylineUI Project August Update v8.5
+========================
+Based on Android 13 QPR3 Release 74
+========================
+Changelog:
+========================
+
+*In this version contains Jemalloc Memory Allocator*
+
+//Framework/base & Packages/apps/Settings//
+
+Unmount unusable partition instead of putting device into crashloop.
+
+Fix invalid code link, update exception message
+
+Camera: Fix typos In CameraExtensionSessionImpl
+
+Usb: Fix incorrect mapping of port mode constants
+
+audio: Don't play sound effects if stream is muted
+
+AudioService: focus listener: enable it when using external AudioFocus
+
+core: legacy toasts deserve rounded corners too
+
+SystemUI: Lockscreen clock format settings (Single and Double Line)
+
+Option to Display Data Disabled Indicator Icon
+
+Allow using 4G icon instead LTE 
+
+Make roaming Indicator optional
+
+Add platform and RAM to Model & Hardware(This seems kinda empty... Fill it with fun stuff)
+
+Fix AOD Tile
+
+Added OTA
+
+And last PE changes
+========================
