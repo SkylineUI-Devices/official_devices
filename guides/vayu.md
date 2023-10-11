@@ -1,16 +1,14 @@
-# Installation Guide For SkylineUI on Alioth
+# Installation Guide For SkylineUI on Vayu
 
 ## IF YOU ARE FROM ANOTHER ROM, CLEAN FLASH IS MANDATORY.
 
 **--- Clean Flash ---**
 Clean Flash/Installation Using Recovery:
-1. Download the latest version of SkylineUI for alioth as the ¡Latest firmware for your region!.
+1. Download the latest version of SkylineUI for vayu.
 2. Open Custom Recovery (TWRP/OFox/Other Recovery)
 3. Wipe Cache, Dalvik & Data
-4. Flash Firmware
-5. Flash the rom you downloaded
-6. Reflash your custom recovery
-7. Reboot Recovery
+4. Flash Firmware (Optional)
+5. Flash The ROM
 8. Format data, type "yes"
 9. Reboot to System
 10. Done!
@@ -20,8 +18,8 @@ Dirty Flash/Installation (Update same Rom):
 1. Download the latest update of SkylineUI
 2. Open Custom Recovery (TWRP/OFox/Other Recovery)
 3. Wipe Cache & Dalvik
-5. Flash firmware
-6. Flash rom you downloaded
+5. Flash firmware (Optional)
+6. Flash The ROM
 7. Reboot system
 8. Done
 
