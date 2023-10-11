@@ -1,7 +1,7 @@
 ========================
-SkylineUI Project August Update v9.0
+SkylineUI Project September Update v9.0
 ========================
-Based on Android 13 QPR3 Release 74
+Based on Android 13 QPR3
 ========================
 Changelog 26/09/2023:
 ========================
