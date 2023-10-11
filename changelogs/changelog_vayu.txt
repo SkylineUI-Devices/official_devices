@@ -1,0 +1,15 @@
+========================
+SkylineUI Project August Update v9.0
+========================
+Based on Android 13 QPR3 Release 74
+========================
+Changelog 26/09/2023:
+========================
+
+*Source changelog*
+• Intial official release
+
+*Device changelog*
+• Remove kernel local name
+
+========================
