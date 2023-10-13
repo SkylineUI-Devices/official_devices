@@ -1,15 +1,17 @@
 ========================
-SkylineUI Project September Update v9.0
+SkylineUI Project October Update v9.0
 ========================
 Based on Android 13 QPR3
 ========================
-Changelog 26/09/2023:
+Changelog 12/10/2023:
 ========================
 
-*Source changelog*
-• Intial official release
-
 *Device changelog*
-• Remove kernel local name
+• Merge latest CAF tag LA.UM.9.1.r1-14200-SMxxx0.QSSI14.0
+• Increased color saturation for better screen colors (kernel)
+• Revert enhanced audio
+• Add ViPER4AndroidFX
+• Switched to smooth display
+• Fixed OTA
 
 ========================
