@@ -12,6 +12,6 @@ Changelog 12/10/2023:
 - Add ViPER4AndroidFX
 - Increase screen record hz limit to 120
 - Switched to smooth display
-- Fixed OTA
+- Add vayu to OTA
 
 ========================
