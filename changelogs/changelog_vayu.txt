@@ -1,1 +1,17 @@
-Just a test!
+(23/01/2025)
+sepolicy: Address kernel wakelock denial
+Extend audio offload buffer size to 256kb
+rro_overlays: Add overlay to improve signal reception
+Disable default frame rate limit for games
+[TMP] Compile Derp kernel
+Explicitly set as an non-AB target
+Update display flags & packages
+Switch to QTI Memtrack AIDL HAL
+Fix low fps Screenrecord
+Move QDCM calibrations config to device tree
+qdcm: Rework calibration profiles
+sepolicy: Remove duplicated entry
+Adjust override prop key names
+Set Gcam as default camera
+rro_overlays: Optimize status bar space
+rro_overlays: Attempt to fix fp location for both panels
